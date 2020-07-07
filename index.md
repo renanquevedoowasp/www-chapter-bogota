@@ -17,7 +17,8 @@ This is an example of a Project or Chapter page.
 Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
 {front matter for this file}
-
+## Bienvenidos
+Es un placer para nosotros reanuadar las tareas del Capítulo Bogotá.
 ```
 - layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
 - title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
@@ -27,6 +28,8 @@ Please change these items to indicate the actual information you wish to present
 
 {copy for this file (index.md)}
 Replace the text above the commented area with your information in the format below:
+## Bienvenidos
+Es un placer para nosotros reanuadar las tareas del Capítulo Bogotá.
 ```
 ## Welcome
 Include some information here about your chapter
